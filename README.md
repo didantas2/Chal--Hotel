@@ -30,6 +30,5 @@ O objetivo do projeto é reproduzir o layout de um **site de hotel**, com áreas
 
 ## 🖼️ Screenshot do projeto
 
-_(adicione a imagem depois que subir a screenshot)_  
 ```markdown
 ![Screenshot do projeto](imagens/screenshot.png)
