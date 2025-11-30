@@ -12,6 +12,9 @@ O objetivo do projeto é reproduzir o layout de um **site de hotel**, com áreas
 - Barra lateral com benefícios
 - Rodapé estilizado
 
+link : https://didantas2.github.io/Chal--Hotel/
+
+
 ---
 
 ## 🎯 Objetivos do projeto
